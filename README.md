@@ -4,10 +4,10 @@
 
 <footer>
     <div>
-        <img alt="heading" src="https://capsule-render.vercel.app/api?type=slice&color=0:ff888c,100:fe0009&height=300&fontSize=75&text=Contactame!&fontColor=ededed&fontAlign=65&fontAlignY=42&rotate=19"/>
+        <img alt="footer" src="https://capsule-render.vercel.app/api?section=footer&height=200&type=blur&reversal=true&color=gradient&text=Contactame!&fontAlign=50&fontAlignY=45&fontSize=55&textBg=false"/>
     </div>
-    <div style="position: relative;">
-        <div style="position: absolute; top:-50px">
+    <div style="position: relative; display: flex; justify-content: center">
+        <div style="position: absolute; top:-74px; border-radius:10px;padding:5px 0 0">
             <a target="_blank" title="LinkedIn" href="https://www.linkedin.com/in/facundo-berges" style="text-decoration: none; padding: 5px;">
                 <img alt="LinkedIn Logo" src="./images/linkedin-logo.svg" height=56 />
             </a>
