@@ -4,7 +4,7 @@
 
 <footer>
     <div>
-        <img alt="footer" src="https://capsule-render.vercel.app/api?section=footer&height=200&type=blur&reversal=true&color=gradient&text=Contactame!&fontAlign=50&fontAlignY=45&fontSize=55&textBg=false"/>
+        <img alt="footer" src="https://capsule-render.vercel.app/api?section=footer&height=200&type=blur&reversal=true&color=gradient&fontColor=fefefe&animation=fadeIn&text=Contactame!&fontAlign=50&fontAlignY=45&fontSize=55&textBg=false"/>
     </div>
     <div style="position: relative; display: flex; justify-content: center">
         <div style="position: absolute; top:-74px; border-radius:10px;padding:5px 0 0">
