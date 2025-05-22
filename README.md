@@ -8,6 +8,7 @@
     </div>
     <div style="position: relative; display: flex; justify-content: center">
         <div style="position: absolute; top:-74px; border-radius:10px;padding:5px 0 0">
+        <p align="center">
             <a target="_blank" title="LinkedIn" href="https://www.linkedin.com/in/facundo-berges" style="text-decoration: none; padding: 5px;">
                 <img alt="LinkedIn Logo" src="./images/linkedin-logo.svg" height=60 />
             </a>
@@ -17,6 +18,7 @@
             <a target="_blank" title="GitHub" href="https://github.com/FacundoBerges/" style="text-decoration: none; padding: 5px;">
                 <img alt="GitHub Logo" src="./images/github-logo.svg" height=60 />
             </a>
+        </p>
         </div>
     </div>
 </footer>
