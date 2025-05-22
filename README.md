@@ -8,30 +8,15 @@
     </div>
     <div style="position: relative;">
         <div style="position: absolute; top:-50px">
-            <a href="https://www.linkedin.com/" style="text-decoration: none; padding: 5px;" onmouseover="this.style.height='70px'" onmouseout="this.style.height='50px'">
-                <img alt="LinkedIn Logo" src="./images/linkedin-logo.svg" height=40 />
+            <a target="_blank" title="LinkedIn" href="https://www.linkedin.com/in/facundo-berges" style="text-decoration: none; padding: 5px;">
+                <img alt="LinkedIn Logo" src="./images/linkedin-logo.svg" height=128 />
             </a>
-            <a href="https://www.gmail.com/" style="text-decoration: none; padding: 5px;">
-                <img alt="Gmail Logo" src="./images/gmail-logo.svg" height=40 />
+            <a target="_blank" href="mailto:facundo.h.berges@gmail.com/" style="text-decoration: none; padding: 5px;">
+                <img alt="Gmail Logo" src="./images/gmail-logo.svg" height=128 />
             </a>
-            <a href="https://www.github.com/" style="text-decoration: none; padding: 5px;">
-                <img alt="GitHub Logo" src="./images/github-logo.svg" height=40 />
+            <a target="_blank" title="GitHub" href="https://github.com/FacundoBerges/" style="text-decoration: none; padding: 5px;">
+                <img alt="GitHub Logo" src="./images/github-logo.svg" height=128 />
             </a>
         </div>
     </div>
 </footer>
-
-<!-- ## Hi there 👋 -->
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
