@@ -9,13 +9,13 @@
     <div style="position: relative; display: flex; justify-content: center">
         <div style="position: absolute; top:-74px; border-radius:10px;padding:5px 0 0">
             <a target="_blank" title="LinkedIn" href="https://www.linkedin.com/in/facundo-berges" style="text-decoration: none; padding: 5px;">
-                <img alt="LinkedIn Logo" src="./images/linkedin-logo.svg" height=56 />
+                <img alt="LinkedIn Logo" src="./images/linkedin-logo.svg" height=60 />
             </a>
             <a target="_blank" title="Gmail" href="mailto:facundo.h.berges@gmail.com" style="text-decoration: none; padding: 5px;">
-                <img alt="Gmail Logo" src="./images/gmail-logo.svg" height=56 />
+                <img alt="Gmail Logo" src="./images/gmail-logo.svg" height=60 />
             </a>
             <a target="_blank" title="GitHub" href="https://github.com/FacundoBerges/" style="text-decoration: none; padding: 5px;">
-                <img alt="GitHub Logo" src="./images/github-logo.svg" height=56 />
+                <img alt="GitHub Logo" src="./images/github-logo.svg" height=60 />
             </a>
         </div>
     </div>
