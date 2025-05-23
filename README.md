@@ -180,6 +180,8 @@ console.table(user);
 
 ---
 
+![Snake animation](https://github.com/FacundoBerges/FacundoBerges/blob/output/github-contribution-grid-snake.svg)
+
 <footer align="center">
     <div>
         <img alt="footer" src="https://capsule-render.vercel.app/api?section=footer&height=200&type=blur&reversal=true&color=gradient&fontColor=fefefe&animation=fadeIn&text=Contactame!&fontAlign=50&fontAlignY=45&fontSize=55&textBg=false"/>
