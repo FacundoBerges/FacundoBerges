@@ -6,31 +6,6 @@
 
 ## Sobre mí
 
-```ts
-// education-item.interface.ts
-export interface EducationItem {
-	title: string;
-	technologies: string[];
-	education_source?: string | string[];
-	completion_year?: number;
-}
-```
-
-```ts
-// profile.interface.ts
-import { EducationItem } from './education-item.interface';
-
-export interface Profile {
-	full_name: string;
-	location: string;
-	education: EducationItem[];
-	ongoing_learning?: string[];
-	current_year_objectives: string[];
-	interests: string[];
-	hobbies: string[];
-}
-```
-
 ### Información:
 
 ```ts
@@ -118,6 +93,35 @@ const user: Profile = {
 
 console.table(user);
 ```
+
+### Interfaces:
+
+```ts
+// education-item.interface.ts
+export interface EducationItem {
+	title: string;
+	technologies: string[];
+	education_source?: string | string[];
+	completion_year?: number;
+}
+```
+
+```ts
+// profile.interface.ts
+import { EducationItem } from './education-item.interface';
+
+export interface Profile {
+	full_name: string;
+	location: string;
+	education: EducationItem[];
+	ongoing_learning?: string[];
+	current_year_objectives: string[];
+	interests: string[];
+	hobbies: string[];
+}
+```
+
+
 
 ## Tecnologías aprendidas:
 
