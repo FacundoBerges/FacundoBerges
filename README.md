@@ -44,28 +44,11 @@ const user: Profile = {
 		{
 			title: 'Tecnicatura Universitaria en Programación',
 			technologies: [
-				'C',
-				'Codeblocks',
-				'Eclipse',
-				'Arduino',
-				'C#',
-				'Visual studio',
-				'Microsoft SQL Server',
-				'Windows forms',
-				'Bash',
-				'JavaScript',
-				'HTML',
-				'CSS',
-				'Visual Studio Code',
-				'MySQL',
-				'MySQL workbench',
-				'NodeJS',
-				'Postman',
-				'MongoDB',
-				'MongoSH',
-				'TypeScript',
-				'Angular',
-				'NestJS',
+				'C', 'Codeblocks', 'Eclipse', 'Arduino',
+				'C#', 'Visual studio', 'Microsoft SQL Server', 'Windows forms',
+				'Bash', 'JavaScript', 'HTML', 'CSS', 'Visual Studio Code', 
+				'MySQL', 'MySQL workbench', 'NodeJS', 'Postman',
+				'MongoDB', 'MongoSH', 'TypeScript', 'Angular', 'NestJS',
 			], // Sorted by learning date.
 			education_source:
 				'Universidad Tecnológica Nacional - facultad regional Avellaneda (UTN-FRA)',
@@ -73,20 +56,10 @@ const user: Profile = {
 		},
 		{
 			title: 'Desarrollador/programador autodidacta',
-			technologies: [
-				'HTML',
-				'CSS',
-				'SASS',
-				'Bootstrap',
-				'TailwindCSS',
-				'MySQL',
-				'Java',
-				'Spring',
-				'Spring data',
-				'Spring security',
-				'JavaScript',
-				'TypeScript',
-				'Angular',
+			technologies: [ 
+				'HTML', 'CSS', 'SASS', 'Bootstrap', 'TailwindCSS',
+				'MySQL', 'Java', 'Spring', 'Spring data', 'Spring security', 
+				'JavaScript', 'TypeScript', 'Angular'
 			],
 			education_source: ['Documentaciones oficiales', 'YouTube', 'Platzi', 'DevTalles'],
 			completion_year: undefined,
@@ -180,7 +153,11 @@ console.table(user);
 
 ---
 
-![Snake animation](https://github.com/FacundoBerges/FacundoBerges/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <footer align="center">
     <div>
