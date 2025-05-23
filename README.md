@@ -129,7 +129,7 @@ console.table(user);
 
 #### Bases de datos SQL/NoSQL:
 
-![Bases de datos](https://go-skill-icons.vercel.app/api/icons?theme=light&perline=10&i=mysql,mongodb,postgresql,sqlserver)
+![Bases de datos](https://go-skill-icons.vercel.app/api/icons?theme=light&perline=10&i=mysql,mongodb,postgresql)
 
 #### Gestores de paquetes/dependencias:
 
@@ -149,7 +149,7 @@ console.table(user);
 
 #### Otras herramientas utilizadas durante el camino:
 
-![Otras herramientas aprendidas durante el camino](https://go-skill-icons.vercel.app/api/icons?theme=light&perline=10&i=git,github,regex,api,json,postman,jwt,nestjs,supabase,expressjs,lucidchart,uml,netlify,prettier,apache,tomcat,chromedevtools,jquery,excel,word,outlook,teams,slack,terminal,wsl,windows,bash,mint,ubuntu,linux,visualstudio,cs,arduino,eclipse,c)
+![Otras herramientas aprendidas durante el camino](https://go-skill-icons.vercel.app/api/icons?theme=light&perline=10&i=git,github,regex,api,json,postman,jwt,nestjs,supabase,expressjs,lucidchart,uml,netlify,prettier,apache,tomcat,chromedevtools,jquery,excel,word,outlook,teams,slack,terminal,wsl,windows,bash,mint,ubuntu,linux,sqlserver,visualstudio,cs,arduino,eclipse,c)
 
 ---
 
