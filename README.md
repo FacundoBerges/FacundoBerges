@@ -185,7 +185,7 @@ console.table(user);
         <img alt="footer" src="https://capsule-render.vercel.app/api?section=footer&height=200&type=blur&reversal=true&color=gradient&fontColor=fefefe&animation=fadeIn&text=Contactame!&fontAlign=50&fontAlignY=45&fontSize=55&textBg=false"/>
     </div>
     <div style="position: relative; display: flex; justify-content: center">
-        <div style="position: absolute; top:-74px; border-radius:10px;padding:5px 0 0">
+        <div align="center" style="position: absolute; top:-74px; border-radius:10px;padding:5px 0 0">
             <a target="_blank" title="LinkedIn" href="https://www.linkedin.com/in/facundo-berges" style="text-decoration: none; padding: 5px;">
                 <img alt="LinkedIn Logo" src="./images/linkedin-logo.svg" height=60 />
             </a>
