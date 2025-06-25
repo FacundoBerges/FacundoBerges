@@ -36,6 +36,11 @@ jobs:
                       dist/github-contribution-grid-snake.svg
                       dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+            - name: Configure Git Author
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
             - name: Commit and push changes
               run: |
                   git add dist/github-contribution-grid-snake.svg
