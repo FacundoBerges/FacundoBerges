@@ -2,7 +2,7 @@
     <img alt="heading" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff888c,100:fe0009&fontColor=fefefe&reversal=true&height=256&animation=fadeIn&text=Facundo%20Berges&fontSize=90&desc=Hola!%20soy&descAlign=10&descAlignY=15&descSize=30"/>
 </header>
 
-# Desarrollador fullstack, con conocimientos en Java para backend y Angular para frontend. ☕
+# Desarrollador fullstack Java-Angular. ☕
 
 ## Sobre mí
 
